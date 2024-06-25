@@ -2,7 +2,7 @@
 # 5-variable_load.py
 from variable_load_5 import a
 
-if __name__ == "__main__":
+if __name__ != "__main__":
     exit()
 
-print("{:d}".format(a))
+print(a)
